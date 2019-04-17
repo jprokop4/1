@@ -1,5 +1,6 @@
 edit
-#include <stdio.h> edit2aasdasd
+
+
 #include <string.h> edit 3
 
 struct Rzym_t
