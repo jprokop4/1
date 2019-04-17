@@ -1,5 +1,5 @@
 EDIT
-#include <stdio.h>
+#include <stdio.h> edit2
 #include <string.h>
 
 struct Rzym_t
