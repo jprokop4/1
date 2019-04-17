@@ -4,21 +4,20 @@
 
 struct Rzym_t
 {
-  char *s;
+  char *s;sdf
   int w;
-};
+};sfsdf
 
 static const Rzym_t Rzym[]=
-{
+{df
   {"M",  1000},
   {"CM",  900},
   {"D",   500},
-  {"CD",  400},
-  {"C",   100},
+  {"CD",  400},sdf
   {"XC",   90},
   {"L",    50},
   {"XL",   40},
-  {"X",    10},
+  {"X",    10},sdf
   {"IX",    9},
   {"V",     5},
   {"IV",    4},
