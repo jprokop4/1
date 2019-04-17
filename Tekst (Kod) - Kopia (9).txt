@@ -7,7 +7,7 @@ struct Rzym_t
   char *s;
   int w;
 };
-
+ffsdfs
 static const Rzym_t Rzym[]=
 {
   {"M",  1000},
