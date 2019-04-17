@@ -1,6 +1,6 @@
 EDIT
 #include <stdio.h> edit2
-#include <string.h>
+#include <string.h> edittttt 3
 
 struct Rzym_t
 {
